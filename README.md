@@ -1,3 +1,3 @@
 ### Projeto HTML - NodeJS
 
-- Projeto utilizando HTML, CSS, NODEJS
+- Projeto utilizando HTML, javaScript, CSS, NODEJS
